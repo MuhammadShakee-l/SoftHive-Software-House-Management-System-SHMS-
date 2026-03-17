@@ -420,6 +420,6 @@ Check:
 ---
 
 ## License
-This project is provided under the MIT License (or update to your preferred license).
+This project is intended for academic and demonstration purposes.
 
 ---
