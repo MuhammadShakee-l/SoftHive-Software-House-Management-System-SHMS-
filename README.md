@@ -34,14 +34,14 @@ Overall, SoftHive makes it easy to handle projects from start to end in a simple
 - Receive email when a project is ready for review
 - **Accept** delivered work, or **Reject** with remarks and optional attachments (revisions)
 
-### ✅ Admin Portal
+### Admin Portal
 - Review incoming **Project Requests**
 - Approve request → create project → assign manager
 - Manage employees, clients, projects, invoices
 - Override approvals and forward completed work to client review when needed
 - Notifications dashboard
 
-### ✅ Manager Portal
+### Manager Portal
 - View assigned projects
 - Assign developers to projects
 - Create/assign tasks
@@ -49,18 +49,18 @@ Overall, SoftHive makes it easy to handle projects from start to end in a simple
 - Approve → send to client review
 - Reject → return to developer with reason + remarks
 
-### ✅ Developer Portal
+### Developer Portal
 - View assigned projects
 - Work on tasks
 - Upload delivery attachments and submit work for approval with remarks/comments
 - Track review results and revision requests
 
-### ✅ Invoices
+### Invoices
 - Create invoices linked to projects and clients
 - Invoice items with Qty × Unit Price and totals
 - Track payment status (depending on your implementation)
 
-### ✅ Notifications
+### Notifications
 - On assignments and status changes (project/task related)
 
 ---
@@ -162,7 +162,7 @@ tree /F
 
 Then replace the placeholder tree below.
 
-### ✅ Full Code Tree (replace with your real output)
+### Code Tree
 ```text
 .
 ├── client
@@ -423,8 +423,3 @@ Check:
 This project is provided under the MIT License (or update to your preferred license).
 
 ---
-
-## Author
-**YOUR_NAME**  
-LinkedIn: YOUR_LINKEDIN_URL  
-GitHub: https://github.com/ShakeelMazari
